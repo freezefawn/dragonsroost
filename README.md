@@ -9,7 +9,7 @@ This becomes even moreso when one does not have access to a useful and understan
 
 This is a guide that is intended to fill that gap and be a community-self-help resource.
 
-The curators of this guide have noticed that many newbies have a hard time rooting around for good plural-related information.
+The curators of this guide have noticed that many newbies have a hard time rooting around for good plural-related information, so this is intended to be an easier to access guide for all of that.
 
 This guide was built in Obsidian and then exported to github via [Docsify](https://github.com/docsifyjs/docsify/)
 It is intended to be read both in a loose order dictated on the sidebar and by skipping around to whatever catches your eye.
@@ -30,4 +30,4 @@ Contact us at: geosynchronousaugury@gmail.com
 
 ## Affiliates:
 
-<a href="https://howlcon.neocities.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/Y37Pvjp/Howl-Con-Website-Button-Border.gif" alt="HowlCon website button" border="0"></a>
+<a href="https://howlcon.neocities.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/Y37Pvjp/Howl-Con-Website-Button-Border.gif" alt="HowlCon website button" border="0"></a> | [Our Main Website](https://dragonsroost.neocities.org/)
