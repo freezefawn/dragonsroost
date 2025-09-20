@@ -1,7 +1,5 @@
 # Dragon's Plural Survival Guide
 
-> This site is made with [Docsify](https://github.com/docsifyjs/docsify/)!
-
 ## What is this?
 This is a guide about the topic of plurality, and is currently a work in progress!
 
@@ -13,12 +11,11 @@ This is a guide that is intended to fill that gap and be a community-self-help r
 
 The curators of this guide have noticed that many newbies have a hard time rooting around for good plural-related information.
 
-This guide was built in Obsidian and then exported to HTML; thus it works somewhat similar to a wiki.
+This guide was built in Obsidian and then exported to github via [Docsify](https://github.com/docsifyjs/docsify/)
 It is intended to be read both in a loose order dictated on the sidebar and by skipping around to whatever catches your eye.
 
----
 
-### About The Curator
+## About The Curator
 The Dragonheart Collective -also known as Dragon(s)- is a queer nonhuman multiple system.
 
 They have identified as plural since late 2014, and decided to make this guide to coalesce knowledge from across the web on a variety of plural topics that are of concern.
