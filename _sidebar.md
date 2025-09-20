@@ -1,2 +1,3 @@
 - [Read Me](README)
 - [Primer To Plurality](primer)
+- ["Am I Plural?"](amiplural)
