@@ -1,5 +1,6 @@
 - [Read Me](README)
 - [Primer To Plurality](primer)
+- [Glossary](glossary)
 - [Am I Plural?](amiplural)
 - [What Now?](whatnow)
 - [Combating Doubts](combatdoubts)
