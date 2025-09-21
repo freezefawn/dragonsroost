@@ -1,7 +1,7 @@
 # "Am I Plural?"
 
-< This is an updated version of the document released (date here, WIP). It has been split into two sections and has had much of the language updated.
-< For the original document look (here)
+> This is an updated version of the document released (date here, WIP). It has been split into two sections and has had much of the language updated.
+> For the original document look (here)
 
 _Well, are you?_
 
