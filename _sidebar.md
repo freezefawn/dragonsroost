@@ -1,4 +1,4 @@
-- [Read Me](README)
+- [Start Here](README)
 - [Primer To Plurality](primer)
 - [Glossary](glossary)
 - [Am I Plural?](amiplural)
