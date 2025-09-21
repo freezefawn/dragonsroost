@@ -1,6 +1,6 @@
 # Common Terms Used In Plural Spaces
 
-<sub>Version 3.0.0 | Last updated 5/21/25</sub>
+<sub>Version 3.0.1 | Last updated 9/21/25</sub>
 
 This is a non-comprehensive dictionary of common terms used currently in plural spaces. Many dictionaries and glossaries are either not good enough for the current vernacular, or they are loaded with rarely used and redundant labels that make learning the lingo very intimidating. Hence this guide.
 
