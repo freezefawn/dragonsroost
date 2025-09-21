@@ -65,3 +65,8 @@ To get some of the most commonly asked things out of the way and emphasized- it 
 - To have some or all of your headmates going quiet/dormant for awhile (days, weeks, months, sometimes years)
 
 Your experiences are FINE, promise.
+
+## External Essays
+Here are some external essays on this topic that may be of use to you.
+- [The Power of Naming](https://web.archive.org/web/19980115122056/http://www.asarian.org:80/~vickis/naming.html)
+- [Does it work?](https://web.archive.org/web/19980115121850/http://www.asarian.org:80/~vickis/label.html)
