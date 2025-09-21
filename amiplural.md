@@ -1,5 +1,6 @@
 # "Am I Plural?"
 
+> [!NOTE]
 > This is an updated version of the document released (date here, WIP). It has been split into two sections and has had much of the language updated.
 > For the original document look (here)
 
@@ -231,5 +232,6 @@ It is also worth noting that one may have both something on this list going on A
 - An outside spiritual entity does not generally spend notable amounts of time using your body outside of non-ritual practice. They live outside the body more than not.
 - An outside spiritual entity does not generally uncontrollably end up possessing the body against both your and/or their will, especially if external triggers are involved.
 
-**NOTE:** The outside spiritual entity to headmate line is historically blurry due to many of the material experiences being essentially the same (internal communication, fronting, passive influence, possible memory issues, etc) in some cases. Its really up to the individual spirit-host partnership to decide if they wish to consider themselves plural when their experiences in practice are essentially the same or not.
+> [!NOTE]
+> The outside spiritual entity to headmate line is historically blurry due to many of the material experiences being essentially the same (internal communication, fronting, passive influence, possible memory issues, etc) in some cases. Its really up to the individual spirit-host partnership to decide if they wish to consider themselves plural when their experiences in practice are essentially the same or not.
 
