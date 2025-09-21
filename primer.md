@@ -10,7 +10,7 @@ This is a thing that trips people up a lot despite being quite simple of a defin
 
 Being 'more than one' means different things to different people, and there are a **wide range of experiences** under the plural umbrella because of it.
 
-There are many words people use alongside this term, for reference. Have a look at the basic terms in our [plural glossary] (wip link) for the barebones. From now on this guide will assume you know these.
+There are many words people use alongside this term, for reference. Have a look at the basic terms in our [plural glossary](glossary) for the barebones. From now on this guide will assume you know these.
 
 ## Plurality? What about DID?
 DID is a specific psychiatric diagnosis. It is a Complex Dissociative Disorder(CDD) alongside several other disorders like P-DID (ICD only), OSDD, and UDD.
@@ -112,6 +112,7 @@ Can you prove you’re singlet?
 
 ---
 
-## Other Notable Plural 101 Guides:
-
-(list some links here)
+## Other Notable External Plurality 101 Guides:
+- [Morethanone.info](https://morethanone.info/)
+- [Plurality Playbook](https://freyasspirit.com/plurality-playbook/)
+- [The Layman's Guide](http://www.karitas.net/blackbirds/layman/) (slightly outdated)
