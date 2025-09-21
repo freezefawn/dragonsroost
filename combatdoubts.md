@@ -4,7 +4,9 @@ There is one incredibly common question that is asked incredibly often in plural
 > “What if I’m faking?”
 
 Here is the thing:
-**You can't fake on accident.** Faking requires intentional, deliberate intention to pretend to experience something you otherwise do not. Otherwise it’s not faking. You can be mistaken, but you cannot fake. If you feel like you could be mistaken, what things would you otherwise explain your experiences with?
+**You can't fake on accident.** Faking requires intentional, deliberate intention to pretend to experience something you otherwise do not. Otherwise it’s not faking. You can be mistaken, but you cannot fake.
+
+If you feel like you could be mistaken, *what things would you otherwise be able to comfortably explain your experiences with*?
 
 **You are not taking any kind of finite resource to identify as plural or read plural resources.** If you got a dissociative specialty therapist and are going to therapy, then you probably do need that help. It’s not a waste to help you. Its not a waste to identify in a way that makes you happier.
 
