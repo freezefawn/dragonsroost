@@ -1,7 +1,7 @@
 # Combating Doubts
 There is one incredibly common question that is asked incredibly often in plural spaces:
 
-< “What if I’m faking?”
+> “What if I’m faking?”
 
 Here is the thing:
 **You can't fake on accident.** Faking requires intentional, deliberate intention to pretend to experience something you otherwise do not. Otherwise it’s not faking. You can be mistaken, but you cannot fake. If you feel like you could be mistaken, what things would you otherwise explain your experiences with?
