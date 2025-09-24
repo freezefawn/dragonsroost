@@ -32,6 +32,6 @@ Some general ideas of what to do next:
 - Participate in the community and connect with others like you for advice, belonging, solidarity, and support.
 
 
-Really, from this point on you can just do whatever you feel like! If you need some direction, we got some pointers, but this master guide of ours is only one of many paths you can take.
+Really, from this point on you can just do whatever you feel like! If you need some direction, we got some pointers (that is most of this guide!), but our guide is only one of many paths you can take.
 
 Good luck on your plural journey!
