@@ -78,12 +78,9 @@ You then proceed to practice at first narrating to, then trying to get short res
 
 It is highly recommended to, even though you are not following any one path, read guides from all of these communities anyway and adapt their techniques, as this can give you a larger pool of things try.
 
-> [!NOTE]
-> This is NOT a fast process for most people. Do not expect this to happen overnight!
-> Different brains have different thresholds for when a system member forms, as well, so do not judge your progress by other people.
+**PLEASE NOTE:** This is NOT a fast process for most people. Do not expect this to happen overnight! Different brains have different thresholds for when a system member forms, as well, so do not judge your progress by other people.
 
-> [!IMPORTANT]
-> **Headpressure** is a sense of pressure or tingling in the head area. This is very common when working on system skills or forming headmates. It is usually considered a promising sign and that your efforts are working. **Headaches** however are a sign you should stop.
+**ALSO NOTE:** <u>Headpressure</u> is a sense of pressure or tingling in the head area. This is very common when working on system skills or forming headmates. It is usually considered a promising sign and that your efforts are working. Headaches however, are a sign you should stop.
 
 External specific headmate formation guides that may be of use:
 - [Highly Advanced Tulpamancy For Beginners](https://hivewired.wordpress.com/2017/05/27/highly-advanced-tulpamancy-101-for-beginners/) By a rationalist, but otherwise a good guide. A rare split-type creation guide.
@@ -101,8 +98,7 @@ If you want something *like* plurality, but aren't sure of the commitment requir
 
 **Daemonism** on the shallower ends is of course a decent option, but if you want something even more approachable and less likely to cause fully autonomous other people to show up, then there are also other alternatives.
 
-> [!WARNING]
-> Having a headmate form is only LESS likely. Its still **fully possible** to acidentally create a headmate by practicing these things if your threshhold for forming headmates is low enough; which can have all the cons stated above. These options may also cause you to develop a maladaptive relationship to daydreaming and fantasy if used inapropriately.
+**WARNING:** Having a headmate form is only LESS likely. Its still **fully possible** to acidentally create a headmate by practicing these things if your threshhold for forming headmates is low enough; which can have all the cons stated above. These options may also cause you to develop a maladaptive relationship to daydreaming and fantasy if used inapropriately.
 
 First is the most well known one; **Immersive Daydreaming**. Also known as Neuronarraration or having a parocosm.
 Immersive daydreaming is a kind of sequential, intense daydream. The world you imagine in may be called a parocosm. This space may be populated by a wide variety of characters which you imagine in the setting.
