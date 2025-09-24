@@ -4,4 +4,4 @@
 - [Am I Plural?](amiplural)
 - [What Now?](whatnow)
 - [Combating Doubts](combatdoubts)
-- [Becoming Plural](becomeplural)
+- [On Becoming Plural](becomeplural)
