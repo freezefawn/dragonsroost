@@ -83,7 +83,7 @@ It is highly recommended to, even though you are not following any one path, rea
 **ALSO NOTE:** <u>Headpressure</u> is a sense of pressure or tingling in the head area. This is very common when working on system skills or forming headmates. It is usually considered a promising sign and that your efforts are working. Headaches however, are a sign you should stop.
 
 External specific headmate formation guides that may be of use:
-- [Highly Advanced Tulpamancy For Beginners](https://hivewired.wordpress.com/2017/05/27/highly-advanced-tulpamancy-101-for-beginners/) By a rationalist, but otherwise a good guide. A rare split-type creation guide.
+- [Highly Advanced Tulpamancy For Beginners](https://hivewired.wordpress.com/2017/05/27/highly-advanced-tulpamancy-101-for-beginners/)
 - [The Tulpanomicon](https://tulpanomicon.guide/)
 - [Tulpamancy: Guide Into the Strange and Wonderful](https://docs.google.com/document/d/1mSaPARuohFEO7qX3gVgKAh69XwU0VlKwnD0I_-nddvk/edit?tab=t.0#heading=h.vysa14402jtv)
 - [FAQ Man’s Guide on How to Create a Tulpa](https://www.tulpa.info/archive/faqman-creation-guide/)
